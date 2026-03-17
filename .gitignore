@@ -1,0 +1,9 @@
+# Dossiers à ignorer dans les transferts
+**/nppBackup
+**/__pycache__
+
+#
+# Fichiers à ignorer dans les transferts
+*.bak
+*.log
+#  ### FIN ###
